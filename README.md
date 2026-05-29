@@ -7,7 +7,7 @@ Computer Science graduate (Major in Software Technology) from De La Salle Univer
 - **Languages:** C#, Java, TypeScript, Python
 - **Backend:** ASP.NET Core, Spring Boot, Express.js, Node.js
 - **Frontend:** React, TailwindCSS, Vite
-- **Databases & ORMs:** PostgreSQL, SQLite, EF Core, Spring JPA, Prisma, MongoDB, Mongoose
+- **Databases & ORMs:** PostgreSQL, SQLite, Entity Framework Core, Spring Data JPA, MongoDB
 - **Tooling:** Docker, Linux, WSL, Git, Neovim, Tmux
 
 ## Pinned Projects
@@ -17,8 +17,8 @@ Computer Science graduate (Major in Software Technology) from De La Salle Univer
 A personal knowledge management platform inspired by PARA and GTD methodologies.
 
 - **Architecture:** Versioned as a monorepo. The API backend is built using Clean Architecture, while the React client uses Vertical Slice Architecture (VSA).
-- **Database & Infrastructure:** Uses a PostgreSQL instance. Database mapping and migrations are handled through EF Core.
-- **Logging:** Integrated Serilog for structured logging.
+- Authentication: JWT-based authentication and authorization using ASP.NET Core Identity.
+- **Database & Infrastructure:** PostgreSQL instance. Database mapping and migrations are handled through Entity Framework Core.
 
 ## Contact
 
