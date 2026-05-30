@@ -17,7 +17,7 @@ Computer Science graduate (Major in Software Technology) from De La Salle Univer
 A personal knowledge management platform inspired by PARA and GTD methodologies.
 
 - **Architecture:** Versioned as a monorepo. The API backend is built using Clean Architecture, while the React client uses Vertical Slice Architecture (VSA).
-- Authentication: JWT-based authentication and authorization using ASP.NET Core Identity.
+- **Authentication**: JWT-based authentication and authorization using ASP.NET Core Identity.
 - **Database & Infrastructure:** PostgreSQL instance. Database mapping and migrations are handled through Entity Framework Core.
 
 ## Contact
